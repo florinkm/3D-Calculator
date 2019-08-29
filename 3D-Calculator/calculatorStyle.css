@@ -1,0 +1,42 @@
+/*h1{
+	color: black;
+	font-family: times new roman;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-decoration: underline;
+	text-align: center;
+}*/
+
+.kubus{
+	color: navy;
+	font-weight: bold;
+}
+
+.bola{
+	color: navy;
+	font-weight: bold;
+}
+
+.balok{
+	color: navy;
+	font-weight: bold;
+}
+
+.kerucut{
+	color: navy;
+	font-weight: bold;
+}
+
+.limas{
+	color: navy;
+	font-weight: bold;
+}
+
+.tabung{
+	color: navy;
+	font-weight: bold;
+}
+
+body{
+	background-color:  #ffff80;
+}
